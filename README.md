@@ -1,4 +1,3 @@
-
 ####Usage
 
 #####Install gems
@@ -12,4 +11,4 @@ github_password = 'YOUR GITHUB PASSWORD'
 #####Execute script
 ./downloader.rb
 
-[Read blog post here](http://ericlondon.com/posts/252-ruby-selenium-script-to-authenticate-to-github-and-download-all-railscasts-pro-videos)
+[Read blog post here](http://ericlondon.com/2012/10/28/ruby-selenium-script-to-authenticate-to-github-and-download-all-railscasts-pro-videos.html)
